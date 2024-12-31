@@ -1,0 +1,22 @@
+html body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.bulb{
+    height: 300px;
+    width: 200px;
+    border-radius: 50%;
+    border:5px solid black;
+}
+button{
+    padding: 10 30px;
+    margin: 50px;
+    background-color: red;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    
+}
